@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-voah",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint & prettier configuration for voah",
   "main": "index.js",
   "scripts": {},

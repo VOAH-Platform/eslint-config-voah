@@ -1,4 +1,4 @@
-const eslintrc = require("./eslintrc.js");
+const eslintrc = require("./.eslintrc.js");
 
 module.exports = Object.assign({}, eslintrc, {
   extends: [
